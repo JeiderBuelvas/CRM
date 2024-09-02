@@ -6,13 +6,13 @@ Instalación en windows (servidor local)
 
 3- Crear una base de datos usando PHPMyAdmin accediendo a la url siguiente: http://localhost/phpmyadmin/
 
-4- Importar las tablas de la base de datos para ello vamos a buscar el archivo "cotizacion.sql" en el directorio root de nuestro sistema, una vez localizado procedemos a hacer la importacion de los datos desde PHPMyAdmin
+4- Importar las tablas de la base de datos para ello vamos a buscar el archivo "cotizaciones.sql" en el directorio root de nuestro sistema, una vez localizado procedemos a hacer la importacion de los datos desde PHPMyAdmin
 
 5- Configurar los datos de conexión a la base de datos editando el archivo de configuración que se encuentra en la siguiente ruta: CRM/config/db.php
 
 6- Vista web: http://localhost/CRM/
 
-7- Datos de acceso: usuario: programador y contraseña: admin
+7- Datos de acceso: usuario: programador y contraseña: Jeider1999*
 
 *****Faltantes del Proyecto******
 
